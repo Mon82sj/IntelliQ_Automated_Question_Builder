@@ -1,0 +1,11 @@
+Question,Answer
+What is the primary purpose of Python?,"The primary purpose of Python is to be a general-purpose, high-level programming language that is easy to learn and use."
+Which of the following is NOT a Python IDE?,"Notepad++ (Python IDEs include PyCharm, Visual Studio Code, and Spyder)"
+What is the syntax for printing a message in Python?,"print(""Hello, World!"")"
+Which of the following is a built-in Python data type?,"List (Built-in Python data types include integers, floats, strings, lists, dictionaries, and sets)"
+What is the purpose of the `try` and `except` blocks in Python?,"The `try` block is used to execute code that may potentially raise an exception, and the `except` block is used to handle the exception."
+Which of the following is a Python library for data analysis?,Pandas (Other popular Python libraries for data analysis include NumPy and Matplotlib)
+What is the purpose of the `import` statement in Python?,The `import` statement is used to import modules or libraries into a Python program.
+Which of the following is a Python function for creating a dictionary?,dict() (Other popular Python functions for creating data structures include list() and set())
+What is the purpose of the `with` statement in Python?,The `with` statement is used to open a file or perform other resource-intensive operations in a way that ensures the resource is properly closed or released when it is no longer needed.
+Which of the following is a Python library for data visualization?,Matplotlib (Other popular Python libraries for data visualization include Seaborn and Plotly)
